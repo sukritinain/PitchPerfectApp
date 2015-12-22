@@ -1,1 +1,1 @@
-# Pitch Perfect application made using Swift learnt from Udacity course, Intro to iOS App Development with Swift
+# Pitch Perfect application made using Swift. Learnt from Udacity course, "Intro to iOS App Development with Swift".
